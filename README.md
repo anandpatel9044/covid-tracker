@@ -55,3 +55,17 @@ cd covid-tracker
 pip install -r requirements.txt
 python app.py
 http://127.0.0.1:8050/
+
+---
+
+# 🔥 What you just improved
+
+- Added **visual proof (screenshots)** → huge impact  
+- Added **direct code links** → easy for reviewers  
+- Looks **complete + professional**
+
+---
+
+If you want next:
+👉 I’ll write a **LinkedIn post that actually gets attention**  
+👉 or help you **deploy this live (so you can share a working link)**
